@@ -1,4 +1,4 @@
-## Tic Tac Toe
+## Chuck-tac-toe
 
 A beautiful, self-contained tic-tac-toe game built with vanilla HTML, CSS, and JavaScript.
 
